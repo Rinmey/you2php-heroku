@@ -1,0 +1,8 @@
+
+# HTID:5854040: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+#php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:5854040:
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile /storage/ssd2/061/6299061/public_html/.htpasswd
+Require valid-user
